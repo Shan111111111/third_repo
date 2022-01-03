@@ -1,4 +1,7 @@
-some text in file .
+complete change.
+
+
+add something before you push to remoterepo
 
 hi i am a git learner intermediate   
 
