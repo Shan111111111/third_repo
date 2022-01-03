@@ -5,3 +5,11 @@ added some features
 
 
 comma is neceassary standard to use this project
+
+
+
+
+added some test cases
+
+Test1
+Test2
